@@ -73,6 +73,9 @@ footer{
     align-items: center;
     justify-content: space-around;
 }
+footer .logo{
+    padding: 0.5rem;
+}
 footer a{
     color: #fff;
     text-decoration: none;
