@@ -100,16 +100,15 @@ footer a{
     #video{
         width: 100%;
         margin: auto;
-        margin-top: -16px;
         display: flex;
         align-items: center;
         justify-content: center;
     }
     video{
         width: 100%;
-        height: 80vh;
-        border-radius: 10px;
-        margin: 1rem;
+        height: 22rem;
+        border-radius: 0px;
+        margin: 0;
     }
     #redes a{
         text-decoration: none;
@@ -125,7 +124,7 @@ footer a{
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        margin-top: -10rem;
+        margin-top: -7rem;
     }
     .card{
         width: 30%;
@@ -163,16 +162,15 @@ footer a{
     #video{
         width: 100%;
         margin: 0;
-        margin-top: -16px;
         display: flex;
         align-items: center;
         justify-content: center;
     }
     video{
         width: 100%;
-        height: 50vh;
-        border-radius: 10px;
-        margin: 1rem;
+        height: 20rem;
+        border-radius: 0px;
+        margin: 0;
     }
     #redes a{
         text-decoration: none;
@@ -186,7 +184,7 @@ footer a{
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        margin-top: -10rem;
+        margin-top: -6rem;
     }
     .card{
         width: 33%;
@@ -230,16 +228,14 @@ footer a{
     #video{
         width: 100%;
         margin: 0;
-        margin-top: -16px;
         display: flex;
         align-items: center;
         justify-content: center;
     }
     video{
         width: 100%;
-        height: 50vh;
+        height: 16rem;
         border-radius: 0px;
-        margin: 1rem;
     }
     #redes a{
         text-decoration: none;
@@ -255,7 +251,7 @@ footer a{
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        margin-top: -10rem;
+        margin-top: -5rem;
     }
     .card{
         width: 33%;
