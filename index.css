@@ -147,7 +147,9 @@ footer a{
     }
     
 }
+
 /* TABLE */
+
 @media screen and (max-width: 900px){
     body{
         margin: 0;
@@ -213,7 +215,9 @@ footer a{
         height: 25rem;
     }
 }
+
 /* MOBILE*/
+
 @media screen and (max-width: 720px){
     body{
         margin: 0;
