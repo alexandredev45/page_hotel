@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     padding: 0 8rem;
     background-color: rgba(127, 255, 212, 0.322);
@@ -15,6 +19,7 @@ header{
 #video{
     width: 100%;
     margin: auto;
+    margin-top: -16px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -95,6 +100,7 @@ footer a{
     #video{
         width: 100%;
         margin: auto;
+        margin-top: -16px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -156,6 +162,7 @@ footer a{
     #video{
         width: 100%;
         margin: 0;
+        margin-top: -16px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -221,6 +228,7 @@ footer a{
     #video{
         width: 100%;
         margin: 0;
+        margin-top: -16px;
         display: flex;
         align-items: center;
         justify-content: center;
