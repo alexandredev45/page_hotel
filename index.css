@@ -85,6 +85,8 @@ footer a{
     text-decoration: none;
 }
 
+/* desck top*/
+
 @media screen and (max-width: 1200px){
     body{
         margin: 0;
@@ -145,7 +147,7 @@ footer a{
     }
     
 }
-
+/* TABLE */
 @media screen and (max-width: 900px){
     body{
         margin: 0;
@@ -211,7 +213,7 @@ footer a{
         height: 25rem;
     }
 }
-
+/* MOBILE*/
 @media screen and (max-width: 720px){
     body{
         margin: 0;
