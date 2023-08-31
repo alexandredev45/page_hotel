@@ -32,9 +32,7 @@ video{
 #redes a{
     text-decoration: none;
     margin: 0 0.4rem;
-    
 }
-
 #boxCard{
     padding: 1rem;
     background-color: transparent;
@@ -53,7 +51,6 @@ video{
     box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.548);
     margin: 0 4rem;
 }
-
 .card img{
     width: 94%;
     height: 180px;
@@ -117,7 +114,6 @@ footer a{
         margin: 0 0.4rem;
         
     }
-    
     #boxCard{
         padding: 1rem;
         background-color: transparent;
@@ -136,7 +132,6 @@ footer a{
         box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.548);
         margin: 1rem;
     }
-    
     .card img{
         width: 94%;
         height: 200px;
