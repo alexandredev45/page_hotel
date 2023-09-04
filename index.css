@@ -216,7 +216,7 @@ footer a{
 @media screen and (max-width: 720px){
     body{
         margin: 0;
-        padding: 0 1rem;
+        padding: 0rem;
         width: 100%;
         background-color: rgba(127, 255, 212, 0.322);
     }
@@ -253,7 +253,7 @@ footer a{
         align-items: center;
         justify-content: center;
         flex-wrap: wrap;
-        margin-top: -5rem;
+        margin-top: 1rem;
     }
     .card{
         width: 95%;
