@@ -78,7 +78,7 @@ footer a{
 
 @media screen and (max-width:1500px) {
     body{
-        background-color: aqua;
+        /*background-color: aqua;*/
         padding: 0 1rem;
     }
     #boxCard{
@@ -111,7 +111,7 @@ footer a{
 /**/
 @media screen and (max-width:1350px) {
     body{
-        background-color: rgb(255, 60, 0);
+        /*background-color: rgb(255, 60, 0);*/
         padding: 0 1rem;
     }
     
@@ -119,7 +119,7 @@ footer a{
 
 @media screen and (max-width:1100px) {
     body{
-        background-color: rgb(0, 47, 255);
+        /*background-color: rgb(0, 47, 255);*/
         padding: 0 1rem;
     }
     #video{
@@ -160,7 +160,7 @@ footer a{
 
 @media screen and (max-width: 800px){
     body{
-        background-color: rgb(225, 0, 255);
+        /*background-color: rgb(225, 0, 255);*/
         padding: 0 1rem;
     }
     #video{
@@ -199,7 +199,7 @@ footer a{
 }
 @media screen and (max-width: 700px){
     body{
-        background-color: rgb(255, 153, 0);
+        /*background-color: rgb(255, 153, 0);*/
         padding: 0 0rem;
     }
     #video{
@@ -218,7 +218,7 @@ footer a{
         display: flex;
         align-items: center;
         flex-direction: row;
-        justify-content: ;
+        justify-content: space-around;
         margin: 0;
         padding: 0;
     }
